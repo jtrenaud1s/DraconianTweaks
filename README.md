@@ -15,6 +15,5 @@ Stryder Repair Kit - Unlocked at Level 1 - Costs 0 Engram Points
 - 50 Element Dust
 
 ### Planned Features
-
-[x] Bigger Storages
-[x] PAD Gamma Eyes
+- [ ] Bigger Storages
+- [ ] PAD Gamma Eyes
